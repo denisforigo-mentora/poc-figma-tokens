@@ -21,13 +21,13 @@
     {
         "id": "b9ec65bf-11be-4efe-9ef8-9e5f16b06fa4",
         "createdAt": "2022-08-26T01:48:37.043Z",
-        "updatedAt": "2022-08-26T01:48:37.043Z",
+        "updatedAt": "2022-08-26T03:13:49.666Z",
         "name": "",
         "value": {
             "a": 1,
-            "b": 0,
-            "g": 0,
-            "r": 255
+            "b": 255,
+            "g": 26,
+            "r": 0
         },
         "meta": {
             "source": "localStyles"
