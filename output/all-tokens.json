@@ -1,0 +1,59 @@
+[
+    {
+        "id": "04fffe99-2bb8-472f-84e7-98f122c89aae",
+        "createdAt": "2022-08-26T01:48:37.033Z",
+        "updatedAt": "2022-08-26T01:48:37.033Z",
+        "name": "",
+        "value": {
+            "a": 1,
+            "b": 204,
+            "g": 204,
+            "r": 204
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "13:4",
+        "sourceId": "8863efbb-4a64-4379-b0b6-fdd8293162f7",
+        "repositoryId": "9ea7f7ec-f231-41f7-9af9-e22ad5677b15"
+    },
+    {
+        "id": "b9ec65bf-11be-4efe-9ef8-9e5f16b06fa4",
+        "createdAt": "2022-08-26T01:48:37.043Z",
+        "updatedAt": "2022-08-26T01:48:37.043Z",
+        "name": "",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 0,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "13:3",
+        "sourceId": "8863efbb-4a64-4379-b0b6-fdd8293162f7",
+        "repositoryId": "9ea7f7ec-f231-41f7-9af9-e22ad5677b15"
+    },
+    {
+        "id": "981322f6-145c-4076-aee9-bbe13d59e752",
+        "createdAt": "2022-08-26T01:48:37.044Z",
+        "updatedAt": "2022-08-26T01:48:37.044Z",
+        "name": "",
+        "value": {
+            "a": 1,
+            "b": 238,
+            "g": 238,
+            "r": 238
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "13:2",
+        "sourceId": "8863efbb-4a64-4379-b0b6-fdd8293162f7",
+        "repositoryId": "9ea7f7ec-f231-41f7-9af9-e22ad5677b15"
+    }
+]
